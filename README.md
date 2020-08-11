@@ -40,8 +40,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### 📫 Connect with me: [<img align="left" alt="clemiblac | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+### 📫 Connect with me: 
+[<img align="left" alt="clemiblac | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+<br/>
 
 ---
 <img align="left" alt="Clemiblac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clemiblac&show_icons=true&hide_border=true&theme=merko" />
