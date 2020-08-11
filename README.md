@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 [linkedin]:https://www.linkedin.com/in/clementine-sraha/
 
 ---
-<img align="left" alt="Clemiblac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clemiblac&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Clemiblac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clemiblac&show_icons=true&hide_border=true&theme=merko" />
 
