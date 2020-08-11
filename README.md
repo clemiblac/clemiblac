@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello there 👋, my name is Clementine but I go by Clemi.
 
 ### I have a B.Sc. in Environmental Science from Drexel University and a Masters in Environmental Management from Duke University.
-### I currently working on getting a Certificate in Data Analytics and Visualization from the George Washington University- College of Professional Studies.
+### I am currently working on getting a Certificate in Data Analytics and Visualization from the George Washington University - College of Professional Studies.
 
 ### - 🌱 I am currently learning anything and everything data and visualization related
 ### - 👯 I am open to collaborate with other content creators
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-<img align="left" alt="Clemiblac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clemiblac&show_icons=true&hide_border=true&theme=merko" />
+<img align="left" alt="Clemiblac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clemiblac&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
 
