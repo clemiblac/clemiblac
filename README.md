@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ### - ✨ 2020 Goals: Build as many dashboards as I can
 ### - ⚡ Fun Fact: I have two guinea pigs
 
+### You can visit my dashboard portfolio at: 
+https://clemisraha-portfolio.herokuapp.com/
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -46,8 +49,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="clemiblac | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
-### You can visit my dashboard portfolio at: 
-https://clemisraha-portfolio.herokuapp.com/
+
 <br/>
 
 ---
