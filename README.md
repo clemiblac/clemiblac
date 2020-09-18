@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="clemiblac | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+### You can visit my dashboard portfolio at: 
+https://clemisraha-portfolio.herokuapp.com/
 <br/>
 
 ---
