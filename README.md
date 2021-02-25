@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Hello there 👋, my name is Clementine but I go by Clemi.
 
 ### I have a B.Sc. in Environmental Science from Drexel University and a Masters in Environmental Management from Duke University.
-### I am currently working on getting a Certificate in Data Analytics and Visualization from the George Washington University - College of Professional Studies.
+### I have a Certificate in Data Analytics and Visualization from the George Washington University - College of Professional Studies.
 
-### - 🌱 I am currently learning anything and everything data and visualization related
+### - 🌱 I am currently learning anything and everything data and machine learning related
 ### - 👯 I am open to collaborate with other content creators
-### - ✨ 2020 Goals: Build as many dashboards as I can
+### - ✨ 2021 Goals: Build as many dashboards as I can
 ### - ⚡ Fun Fact: I have two guinea pigs
 
 ### You can visit my dashboard portfolio at: https://clemisraha-portfolio.herokuapp.com/
