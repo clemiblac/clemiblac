@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 ### - ✨ 2021 Goals: Build as many dashboards as I can
 ### - ⚡ Fun Fact: I have two guinea pigs
 
-### You can visit my dashboard portfolio at: https://clemisraha-portfolio.herokuapp.com/
+### You can visit my top two projects here:
+http://gwu-covid-dashboard.herokuapp.com/
+https://public.tableau.com/profile/clementine.sraha#!/vizhome/Exploring2018accidentdataintheU_S/Dashboard1
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
